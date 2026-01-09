@@ -10,8 +10,6 @@
 
 **A comprehensive cinema management system with ticket sales, snack bar, and admin dashboard**
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Database Setup](#-database-setup) • [Usage](#-usage) • [Tech Stack](#-tech-stack)
-
 <img src="Resources/loguitoxd.png" alt="Cine Sharp View Logo" width="180"/>
 
 </div>
